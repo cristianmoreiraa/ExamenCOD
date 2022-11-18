@@ -1,5 +1,6 @@
 # examenDAM
 Para utilizarlo en el examen
+
 ##Cristian Moreira Examen COD
 
 1--> Clonamos el repositorio: https://github.com/damiancastelao/examenDAM.git
@@ -14,4 +15,15 @@ Para utilizarlo en el examen
 5-->*git add*. Para que se añada todo los ficheros que tengo en 'examenDAM'
 
 6-->Hago la primera commit "1ra commit" usando: *git commit -m "1ra commit"*
+
+7-->Cambio el remote para hacer el push en mi repositorio: *git remote set-url origin (link de mi repo)*
+ 
+8-->Subo todo a mi repo usando: *git push*
+
+9-->Cambio el nombre del autor del commit mediante el comando: *git config --global user.name "Cristian Moreira"*
+
+10-->Subo el segundo commit
+
+11--> Realizo el diagrama de flujo de mi programa
+	'''mermaid
 
